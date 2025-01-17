@@ -2,6 +2,9 @@
 # WARNINGS - THIS HAS BEEN NOT TESTED ON REAL HARDWARE ANY THING HAPPENED TO SYSTEM IS NOT MY RESPONSIBILITY
 # THIS WILL NOT RECEIVE ANY FUTURE UPDATES
 
+## dependencies
+- i686-elf-gcc
+- qemu / any virtual machine(but only tested on qemu)
 ## How to use
 TO RUN
 ```bash
